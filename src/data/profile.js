@@ -51,7 +51,7 @@ const profile = {
     {
       name: "SAP Certified Implementation Consultant – End-to-End Business Processes for SAP Business Suite",
       issuer: "SAP",
-      issued: "2024",
+      issued: "2026",
       url: "https://www.credly.com/badges/de60106b-c21e-43e8-adbf-877d46553731/public_url",
     },
   ],
