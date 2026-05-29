@@ -117,7 +117,7 @@ const profile = {
       tags: ["Next.js", "TypeScript", "Tailwind CSS", "Figma"],
       github: null,
       live: null,
-      featured: true,
+      featured: false,
     },
     {
       title: "Code Block",
