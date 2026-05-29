@@ -102,6 +102,15 @@ const profile = {
   ],
   projects: [
     {
+      title: "Velvet Vows",
+      oneliner: "A wedding invitation generator — animated, multi-language, and deployable in one click.",
+      description: "A full-stack wedding invitation generator built with React 19, TypeScript, and Framer Motion. Users personalise their invitation with 10 preset themes, a custom colour picker, and multi-language support (English, Hindi, Marathi, Tamil, Bengali). Features an animated envelope reveal, scratch-to-reveal date, rotating schedule wheel, and RSVP form — with one-click Vercel deployment or ZIP download.",
+      tags: ["React", "TypeScript", "Tailwind CSS", "Framer Motion", "Vite"],
+      github: "https://github.com/samikshasharma-dev/velvet_vows",
+      live: "https://velvet-vows-invitation.vercel.app/",
+      featured: true,
+    },
+    {
       title: "WanderVista",
       oneliner: "A travel discovery app — designed in Figma, built with Next.js and TypeScript.",
       description: "A full-stack travel discovery application built with Next.js and TypeScript, featuring destination guides, curated travel packages, and personalised recommendations. Designed end-to-end in Figma before development, with a strong emphasis on responsive UI and user experience using Tailwind CSS.",
