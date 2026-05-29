@@ -12,7 +12,7 @@ const profile = {
     short: "SAP-certified professional specialising in S/4HANA process design and ABAP development, with hands-on experience in enterprise architecture and a growing focus on AI and LLM application development.",
     long: [
       "I work on large-scale SAP S/4HANA transformations, focusing on end-to-end business scenario design, consolidating process flows for integrated testing, and maintaining consistency across modules — work that lives right at the intersection of business thinking and technical delivery.",
-      "I hold dual SAP certifications in Generative AI Development (C_AIG) and Process Management (C_SIGPM), backed by hands-on experience in ABAP development, Adobe Forms, and SAP Signavio. I take pride in translating complex business requirements into precise, well-structured technical solutions — maintaining alignment across both functional and technical dimensions throughout.",
+      "I hold three SAP certifications — in Generative AI Development (C_AIG), Process Management (C_SIGPM), and End-to-End Business Processes Implementation — backed by hands-on experience in ABAP development, Adobe Forms, and SAP Signavio. I take pride in translating complex business requirements into precise, well-structured technical solutions — maintaining alignment across both functional and technical dimensions throughout.",
     ],
   },
   location: "India",
@@ -47,6 +47,12 @@ const profile = {
       issuer: "SAP",
       issued: "2026",
       url: "https://www.credly.com/badges/4bb7be24-7ee1-49df-9bd9-637704824858/public_url",
+    },
+    {
+      name: "SAP Certified Implementation Consultant – End-to-End Business Processes for SAP Business Suite",
+      issuer: "SAP",
+      issued: "2024",
+      url: "https://www.credly.com/badges/de60106b-c21e-43e8-adbf-877d46553731/public_url",
     },
   ],
   publications: [
