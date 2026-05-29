@@ -51,7 +51,7 @@ export default function Projects() {
               transition={{ duration: 0.5, delay: index * 0.1 }}
               className="border border-slate-800 rounded-lg hover:border-slate-600 transition-colors duration-200 overflow-hidden"
             >
-              {project.live && <ProjectThumbnail url={project.live} />}
+              {project.live && project.thumbnail !== false && <ProjectThumbnail url={project.live} />}
 
               <div className="p-5 sm:p-8">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">

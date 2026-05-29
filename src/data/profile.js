@@ -109,6 +109,7 @@ const profile = {
       github: "https://github.com/samikshasharma-dev/velvet_vows",
       live: "https://velvet-vows-invitation.vercel.app/",
       featured: true,
+      thumbnail: false,
     },
     {
       title: "WanderVista",
